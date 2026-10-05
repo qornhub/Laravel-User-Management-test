@@ -503,7 +503,7 @@ No local PHP, Composer, Node.js, or MySQL installation is required when using th
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/qornhub/Laravel-User-Management-test.git
 cd laravel-test
 ```
 
@@ -681,7 +681,7 @@ npm -v
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/qornhub/Laravel-User-Management-test.git
 cd laravel-test
 ```
 
